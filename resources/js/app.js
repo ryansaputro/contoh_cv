@@ -9,10 +9,10 @@ import Vue from 'vue';
 import Vuetify from 'vuetify';
 
 // Route information for Vue Router
-import Routes from '@/js/routes.js';
+import Routes from '../js/routes.js';
 
 // Component Files
-import App from '@/js/view/App';
+import App from '../js/views/App';
 
 
 Vue.use(Vuetify);
